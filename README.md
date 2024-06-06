@@ -1,3 +1,9 @@
+# demo
+
+## Deployment
+
+The application is now deployed to GitHub Pages. You can access it [here](https://amrithss.github.io/demo).
+
 # To Do App
 
 This repository contains a simple CRUD to do app. Follow the instructions below to use the CRUD features:
